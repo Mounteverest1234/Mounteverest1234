@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mounteverest1234
+- 👋 Hi, I’m Rajashekar
+- ✨ i'm from indian
 - 👀 I’m interested in Software development engineering
-- 🌱 I’m currently learning Related python projects
-- 💞️ I’m looking to collaborate on github
+- 🌱 I’m currently learning Related python project's
 - 📫 How to reach me mounteverest473@gmail.com
 
 <!---
